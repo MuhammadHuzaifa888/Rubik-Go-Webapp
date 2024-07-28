@@ -1,20 +1,19 @@
-# Ingress resource for the application
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-  name: go-web-app
+  name: rubik-go
   annotations:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
+  ingressClassName: nginx
   rules:
-  - host: go-web-app.local
+  - host: rubik-go.local
     http:
-      paths: 
+      paths:
       - path: /
         pathType: Prefix
         backend:
           service:
-            name: go-web-app
+            name: rubik-go
             port:
               number: 80
-

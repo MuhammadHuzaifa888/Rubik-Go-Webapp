@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: rubik-go
-        image: muhammadhuzaifa8/rubik-go:v1
+        image: muhammadhuzaifa8/rubik-go:{{ .Values.image.tag }}
         ports:
         - containerPort: 8080
