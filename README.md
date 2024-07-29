@@ -27,6 +27,6 @@ To deploy this project run
 
 <img width="1440" alt="Screenshot 2024-07-29 at 4 58 41 PM" src="https://github.com/user-attachments/assets/4fb18424-f4c5-4271-b63c-23afd590538c">
 
- ## Deployment
+ ## Summary Diagram
 
 <img width="1020" alt="Screenshot 2024-07-29 at 5 38 20 PM" src="https://github.com/user-attachments/assets/615012d3-2f0d-451e-be5f-44c82797d7e1">
