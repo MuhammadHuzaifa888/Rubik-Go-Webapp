@@ -8,7 +8,7 @@ image:
   repository: muhammadhuzaifa8/rubik-go
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "10143247809"
+  tag: "10144422534"
 
 ingress:
   enabled: false
