@@ -1,7 +1,6 @@
 # Go Web Application
 
-This is a simple website written in Golang. It uses the `net/http` package to serve HTT<img width="1440" alt="Screenshot 2024-07-29 at 4 22 22 PM" src="https://github.com/user-attachments/assets/a853aad9-2030-4f96-a9d1-381c6d7b3131">
-P requests.
+This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
 
 ## Running the server
 
