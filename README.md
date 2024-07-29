@@ -20,7 +20,7 @@ To deploy this project run
   http://rubik-go.local/home
 ```
 
-# Go Web Application
+## Go Web Application Walkthrough 
 <img width="1440" alt="Screenshot 2024-07-29 at 4 22 22 PM" src="https://github.com/user-attachments/assets/edc7b2a2-7305-4f5b-a515-ff86c226f0c5">
 
 <img width="1437" alt="Screenshot 2024-07-29 at 4 59 11 PM" src="https://github.com/user-attachments/assets/5e819700-2db6-4c56-a860-18835d633ffe">
